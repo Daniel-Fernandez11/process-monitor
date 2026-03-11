@@ -26,8 +26,8 @@ These are included by default on most Linux distributions.
 
 Clone the repository:
 
-git clone https://github.com/Daniel-Fernandez11/process-monitor
-cd process-monitor
+- git clone https://github.com/Daniel-Fernandez11/process-monitor
+- cd process-monitor
 
 Make the script executable:
 
@@ -70,13 +70,6 @@ Refreshes every *2 seconds* similar to top.
 Stop with:
 
 CTRL + C
-
-## Example Output
-
-PID      PROCESS              CPU%     MEM%
-1324     nginx                12.4     1.3
-2412     docker               3.6      2.1
-987      sshd                 0.4      0.2
 
 # Author
 

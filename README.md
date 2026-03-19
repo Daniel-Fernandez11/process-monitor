@@ -22,17 +22,6 @@ ps, awk, sort, head, clear, sleep.
 
 These are included by default on most Linux distributions.
 
-## Installation
-
-Clone the repository:
-
-- git clone https://github.com/Daniel-Fernandez11/process-monitor
-- cd process-monitor
-
-Make the script executable:
-
-chmod +x process-monitor.sh
-
 # Usage
 
 ## Show top CPU processes
